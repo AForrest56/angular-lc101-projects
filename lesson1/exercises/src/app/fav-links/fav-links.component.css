@@ -1,4 +1,10 @@
 .links {
     text-align: center;
+    font-size: 25px;
 }
+
+ul {
+    list-style-type: none;
+}
+
 
